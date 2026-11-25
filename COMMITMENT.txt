@@ -1,0 +1,14 @@
+Commitment published 2026-11-25T18:04Z
+
+Pre-registration hash record (frozen 2026-11-22), SHA-256 of the record file:
+  60fa22e508fe4a43ef44dfda48dac4074848516c5b83a9f35a08f8d9cc426ed4
+Amendment 1 hash record (frozen 2026-11-24), SHA-256 of the record file:
+  00d85252e6628e83bc50aeb36bf3488fbefe9bcd14a7706b3549625465b39213
+Amendment 2 hash record (frozen 2026-11-24), SHA-256 of the record file:
+  051189bdda4b593e05d2458f51b38b2822910a645f657e63d7f3dc90cc48528a
+Each record file lists the SHA-256 of every frozen document and analysis file it covers.
+
+Git commit (SHA-1) of the full pre-registration bundle:
+  f0ce3ed18f40caa84e96500fd1146680ee595d8d
+Engine commit the study runs on (private repository):
+  5252eed7f6a78085fb9e8a2455d6415b19717bb7
